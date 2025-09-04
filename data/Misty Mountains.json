@@ -1,0 +1,19 @@
+{
+    "id": 60708767,
+    "name": "Misty Mountains",
+    "author": "We4therman",
+    "creators": [],
+    "verifier": "",
+    "verification": "https://www.youtube.com/watch?v=IXgbUj8tlVg",
+    "percentToQualify": "57",
+    "gddl": "20.73",
+    "aredl": "#1127",
+    "records": [
+        {
+            "user": "Linkjustice",
+            "link": "https://www.youtube.com/watch?v=tLq935NHECQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
